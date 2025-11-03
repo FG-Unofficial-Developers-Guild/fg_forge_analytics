@@ -4,7 +4,7 @@ version = "0.0.1"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { file = "LICENSE" }
-authors = [{ name = "bmos", email = "wil.thieme@protonmail.com" }]
+authors = [{ name = "Ramona T", email = "ramona.t.me@pm.me" }]
 #urls = { Repository = "https://github.com/bmos/fg_forge_analytics" }
 dependencies = [
     "pandas==2.2.3",
